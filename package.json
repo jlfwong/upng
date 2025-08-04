@@ -40,7 +40,8 @@
     "conversion"
   ],
   "dependencies": {
-    "pako": "^1.0.10"
+    "pako": "^1.0.10",
+    "uzip": "0.20201231.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.8.4",
